@@ -72,84 +72,11 @@ member_names = ["Md. Ashikul Islam", "sohan Mia", "Md Jakaria", "Apon das", "Ash
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ran = ["Istiak", "Mahmuda akter shanta"]
 groups = create_groups(leader_names, member_names, ran)
 YELLOW = "\033[93m"
 RESET = "\033[0m"
-print("Member selection for Hanif English Academy, Batch: SW-114\n")
+print("\nMember selection for Hanif English Academy, Batch: SW-114\n")
 for i, (leader, members) in enumerate(groups.items(), 1):
     print(f"Group {i} ({len(members)} members):")
     print(f"  Leader: {YELLOW}{leader}{RESET}")
