@@ -41,33 +41,7 @@ member_names = ["Md. Ashikul Islam", "sohan Mia", "Md Jakaria", "Apon das", "Ash
 
 
 
-
-
-
-
-
-
 # The end............
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
