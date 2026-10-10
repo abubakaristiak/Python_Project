@@ -23,16 +23,6 @@ member_names = ["Sweet", "Borsha", "Mst. Asia Akter","Nishu Rani", "Masuma Akter
 groups = create_groups(leader_names, member_names)
 
 
-
-
-
-
-
-
-
-
-
-
 YELLOW = "\033[93m"
 RESET = "\033[0m"
 
